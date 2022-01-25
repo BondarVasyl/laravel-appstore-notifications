@@ -4,3 +4,4 @@ vendor
 coverage.clover
 .phpunit.result.cache
 .vscode
+.idea
